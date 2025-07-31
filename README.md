@@ -44,7 +44,7 @@ I’ve completed certifications in:
 - [LinkedIn](https://www.linkedin.com/in/vighnesh-gawande-955bb7301)
 - [GitHub](https://github.com/your-username)
 - [Instagram](https://instagram.com/_vigh_nesh.zip_)
-- 📧 Email: your.email@example.com
+- 📧 Email: vighneshgawande@gmail.com
 
 ---
 
