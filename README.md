@@ -30,9 +30,9 @@
 
 I’ve completed certifications in:
 
-- Python Programming
-- Web Development
-- Machine Learning Fundamentals
+- Data analysis with python and pandas
+- Data cleaning in python essential training
+- Unreal enging 5 essential training
 - IoT Basics
 
 > *Check out the Certificates section in my portfolio!*
