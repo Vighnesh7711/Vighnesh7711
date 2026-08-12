@@ -45,59 +45,8 @@ location: Sindhudurg, Maharashtra, India
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 V2V Anomaly Detection System
-**Smartphone-Centric Hybrid V2V Communication**
-- Edge AI hazard classification (YOLOv8-nano) on Raspberry Pi 4
-- 4-layer adaptive comms: ESP-NOW · Li-Fi · Infrared · GSM
-- 64-byte warning packets w/ directional hop-filtering
-- Offline SQLite logging + cloud sync, 3-tier driver alerts
-
-`ESP32` `Raspberry Pi` `YOLOv8` `ESP-NOW` `GSM`
-
-</td>
-<td width="50%">
-
-### 🤖 AI Recruitment & Candidate Parsing
-**AuraRecruit — AI Recruitment SaaS**
-- CV parsing + NLP-based JD matching
-- Avatar interviews, ATS scoring, HR shortlisting controls
-- n8n pipeline automation, 4-service monorepo
-
-`Python` `React` `FastAPI` `n8n` `NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Product Price Prediction System
-**End-to-end Regression ML Pipeline**
-- Feature engineering, cleaning, hyperparameter tuning
-- XGBoost outperforming baseline Random Forest
-- Evaluated via R² and RMSE, served via Flask REST API
-
-`Python` `Flask` `XGBoost` `Scikit-learn` `Pandas`
-
-</td>
-<td width="50%">
-
-### 🏥 Doctor Appointment Management System
-**Desktop Patient Management Suite**
-- OTP-secured multi-tier booking approval workflow
-- PyMuPDF-based medical record rendering
-- Optimized MySQL schema for low-latency retrieval
-
-`Python` `MySQL` `CustomTkinter` `PyMuPDF`
-
-</td>
-</tr>
-</table>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
