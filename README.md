@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergrad%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,20:0B1228,40:101B38,60:102D48,80:12445A,100:087E9B&height=250&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=E6F7FF&animation=fadeIn&fontAlignY=34&desc=AI%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=55&descSize=17&stroke=1B9DB8&strokeWidth=1" width="100%"/>
+
 
 <!-- Typing animation -->
 
