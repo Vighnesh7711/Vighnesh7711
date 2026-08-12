@@ -1,18 +1,178 @@
-# 💫 About Me:
-👋 Hi, I'm Vighnesh<br>🎓 I'm an IT Engineering student passionate about building software solutions that solve real-world problems.<br>💡 I love working on Python projects, desktop apps, IoT systems, and learning new technologies.<br><br>🛠️ Tech Stack<br>Languages: Python, Java, C, JavaScript<br>Web: HTML, CSS, Bootstrap, Flask<br>Database: MySQL, SQLite<br>Desktop GUI: Tkinter, CustomTkinter<br>Tools: Git, GitHub, Bootstrap Studio, VS Code<br>🔥 Projects<br>🔬 Doctor Appointment System – CustomTkinter + MySQL-based desktop app with OTP and PDF management<br>🧑‍💻 Personal Portfolio Website – Fully responsive portfolio built using Bootstrap Studio<br>🎮 3D Fighting Game (Unreal Engine) – In progress<br>Explore more in the Repositories<br><br>📜 Certificates<br>I’ve completed certifications in:<br><br>Data analysis with python and pandas<br>Data cleaning in python essential training<br>Unreal enging 5 essential training<br>IoT Basics<br>Check out the Certificates section in my portfolio!<br><br>📬 Connect with Me<br>LinkedIn<br>GitHub<br>Instagram<br>📧 Email: vighneshgawande@gmail.com<br>⭐ Thanks for visiting! Don’t forget to follow or ⭐ my projects if you like them!
+<div align="center">
 
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergrad%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vigh_nesh.zip_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vighnesh-gawande-955bb7301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vighneshgawande@gmail.com) 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products;Edge+AI+%2B+Embedded+Systems+Engineer;YOLOv8+%7C+ESP32+%7C+Raspberry+Pi+%7C+n8n;Turning+ideas+into+shipped+systems&font=Fira+Code&center=true&width=600&height=45&color=2C5364&vCenter=true&size=24&pause=1200"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vighnesh7711&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vighnesh7711&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vighnesh7711&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Vighnesh7711&icon=5&color=8)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/vighnesh-gawande"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vighneshgawande@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Vighnesh7711"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+
+## 🧭 About Me
+
+```yaml
+name: Vighnesh Vikas Gawande
+role: Information Technology Undergraduate
+university: Finolex Academy of Management and Technology, Ratnagiri (Expected 2027)
+cgpa: 7.71 / 10.0
+focus:
+  - Full-Stack Web Development (React, Node.js, Express, Flask)
+  - AI/ML Product Engineering (NLP, Regression, XGBoost, Scikit-learn)
+  - Agentic AI & Generative AI Systems (AICTE x Lenovo LEAP Scholar)
+  - Embedded Systems & Edge AI (ESP32, Raspberry Pi 4, YOLOv8-nano, TinyML)
+  - Workflow Automation (n8n)
+currently_building: "Smartphone-Centric Hybrid V2V Anomaly Detection & Communication System"
+location: Sindhudurg, Maharashtra, India
+```
+
+- 🔭 Currently engineering a **4-layer adaptive V2V communication stack** (ESP-NOW, Li-Fi, Infrared, GSM) with real-time edge hazard detection.
+- 🧠 Scholar in Anthropic-era Generative AI & Agentic Systems Engineering — **AICTE x Lenovo LEAP NextGen Program**.
+- 🛠️ Building recruitment AI, price-prediction pipelines, and automation-first tooling.
+- 🌱 Deepening expertise in **TinyML + embedded AI** for real-world hardware deployment.
+- ⚡ Fun fact: I design my own architecture diagrams and prompt-engineering frameworks (the "Antigravity" methodology) before writing a single line of code.
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 V2V Anomaly Detection System
+**Smartphone-Centric Hybrid V2V Communication**
+- Edge AI hazard classification (YOLOv8-nano) on Raspberry Pi 4
+- 4-layer adaptive comms: ESP-NOW · Li-Fi · Infrared · GSM
+- 64-byte warning packets w/ directional hop-filtering
+- Offline SQLite logging + cloud sync, 3-tier driver alerts
+
+`ESP32` `Raspberry Pi` `YOLOv8` `ESP-NOW` `GSM`
+
+</td>
+<td width="50%">
+
+### 🤖 AI Recruitment & Candidate Parsing
+**AuraRecruit — AI Recruitment SaaS**
+- CV parsing + NLP-based JD matching
+- Avatar interviews, ATS scoring, HR shortlisting controls
+- n8n pipeline automation, 4-service monorepo
+
+`Python` `React` `FastAPI` `n8n` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Product Price Prediction System
+**End-to-end Regression ML Pipeline**
+- Feature engineering, cleaning, hyperparameter tuning
+- XGBoost outperforming baseline Random Forest
+- Evaluated via R² and RMSE, served via Flask REST API
+
+`Python` `Flask` `XGBoost` `Scikit-learn` `Pandas`
+
+</td>
+<td width="50%">
+
+### 🏥 Doctor Appointment Management System
+**Desktop Patient Management Suite**
+- OTP-secured multi-tier booking approval workflow
+- PyMuPDF-based medical record rendering
+- Optimized MySQL schema for low-latency retrieval
+
+`Python` `MySQL` `CustomTkinter` `PyMuPDF`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+
+**Frameworks & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap&theme=dark" />
+
+**AI / ML & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,pandas&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+**Embedded / IoT / Edge AI**
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-3C873A?style=for-the-badge"/>
+
+**Dev Tools & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vighnesh7711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vighnesh7711&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vighnesh7711&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vighnesh7711&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Note: the snake animation above needs a one-time GitHub Action set up on your profile repo to generate `github-contribution-grid-snake-dark.svg` — see [platane/snk](https://github.com/Platane/snk) for the workflow file. Until that's added, GitHub will just show a broken image for that section.
+
+## 🎓 Certifications
+
+- **Generative AI & Agentic Systems Engineering** — AICTE & Lenovo LEAP Scholar Program (Cert ID: 1015693)
+- **Data Analysis with Python and Pandas** / **Data Visualization with Matplotlib** — LinkedIn Learning
+- **Data Cleaning in Python Essential Training** — LinkedIn Learning
+- **Computer Network Security** — Infosys
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+*"Thanks for stopping by — always open to collaborating on AI, embedded systems, or automation projects."*
+
+</div>
