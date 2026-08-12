@@ -103,5 +103,6 @@ location: Sindhudurg, Maharashtra, India
 *"Thanks for stopping by — always open to collaborating on AI, embedded systems, or automation projects."*
 
 </div>
-<img width="1692" height="146" alt="wand" src="https://github.com/user-attachments/assets/096bfc22-68ec-4135-a092-2b9a8fa10671" />
+<img width="1536" height="166" alt="ChatGPT Image Aug 12, 2026, 11_45_01 PM" src="https://github.com/user-attachments/assets/1dd5c8e2-5e00-4cf5-ba7b-e116ff259328" />
+
 
