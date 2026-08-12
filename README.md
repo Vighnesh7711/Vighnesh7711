@@ -46,8 +46,7 @@ location: Sindhudurg, Maharashtra, India
 - 🧠 Scholar in Anthropic-era Generative AI & Agentic Systems Engineering — **AICTE x Lenovo LEAP NextGen Program**.
 - 🛠️ Building recruitment AI, price-prediction pipelines, and automation-first tooling.
 - 🌱 Deepening expertise in **TinyML + embedded AI** for real-world hardware deployment.
-- ⚡ Fun fact: I design my own architecture diagrams and prompt-engineering frameworks (the "Antigravity" methodology) before writing a single line of code.
-
+- ⚡ Fun fact: I
 <br/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
@@ -104,3 +103,5 @@ location: Sindhudurg, Maharashtra, India
 *"Thanks for stopping by — always open to collaborating on AI, embedded systems, or automation projects."*
 
 </div>
+<img width="1692" height="146" alt="wand" src="https://github.com/user-attachments/assets/096bfc22-68ec-4135-a092-2b9a8fa10671" />
+
