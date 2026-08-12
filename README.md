@@ -1,4 +1,4 @@
-<div align="center">
+<img width="860" height="230" alt="Vighnesh7711-space-shooter" src="https://github.com/user-attachments/assets/17848f2a-4786-4448-bd30-95fc4ef85912" /><img width="860" height="230" alt="Vighnesh7711-space-shooter" src="https://github.com/user-attachments/assets/1b261f50-8264-4036-84ec-05f6f7dfc7a2" /><div align="center">
 
 <!-- Animated wave header -->
 
@@ -93,6 +93,7 @@ location: Sindhudurg, Maharashtra, India
 <br/>
 
 
+<img width="860" height="230" alt="Vighnesh7711-space-shooter" src="https://github.com/user-attachments/assets/84300f92-7b8c-419c-b218-ab4a8f27bad1" />
 
 
 <br/>
