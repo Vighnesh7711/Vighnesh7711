@@ -36,7 +36,7 @@ focus:
   - Full-Stack Web Development (React, Node.js, Express, Flask)
   - AI/ML Product Engineering (NLP, Regression, XGBoost, Scikit-learn)
   - Agentic AI & Generative AI Systems (AICTE x Lenovo LEAP Scholar)
-  - Embedded Systems & Edge AI (ESP32, Raspberry Pi 4, YOLOv8-nano, TinyML)
+  - Embedded Systems & Edge AI (ESP32, Arduino Uno, YOLOv8-nano, TinyML)
   - Workflow Automation (n8n)
 currently_building: "Smartphone-Centric Hybrid V2V Anomaly Detection & Communication System"
 location: Sindhudurg, Maharashtra, India
@@ -81,7 +81,7 @@ location: Sindhudurg, Maharashtra, India
 
 **Embedded / IoT / Edge AI**
 <br/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-3C873A?style=for-the-badge"/>
 
 **Dev Tools & Automation**
 <br/>
@@ -92,35 +92,8 @@ location: Sindhudurg, Maharashtra, India
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vighnesh7711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vighnesh7711&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vighnesh7711&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vighnesh7711&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> Note: the snake animation above needs a one-time GitHub Action set up on your profile repo to generate `github-contribution-grid-snake-dark.svg` — see [platane/snk](https://github.com/Platane/snk) for the workflow file. Until that's added, GitHub will just show a broken image for that section.
-
-## 🎓 Certifications
-
-- **Generative AI & Agentic Systems Engineering** — AICTE & Lenovo LEAP Scholar Program (Cert ID: 1015693)
-- **Data Analysis with Python and Pandas** / **Data Visualization with Matplotlib** — LinkedIn Learning
-- **Data Cleaning in Python Essential Training** — LinkedIn Learning
-- **Computer Network Security** — Infosys
 
 <br/>
 
