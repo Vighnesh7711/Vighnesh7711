@@ -4,9 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergrad%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+products;Edge+AI+%2B+Embedded+Systems+Engineer;YOLOv8+%7C+ESP32+%7C+Raspberry+Pi+%7C+n8n;Turning+ideas+into+shipped+systems&font=Fira+Code&center=true&width=600&height=45&color=2C5364&vCenter=true&size=24&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+Vighnesh+here+%F0%9F%91%8B;Turning+AI+ideas+into+real-world+solutions;From+ideas+to+code+to+reality&font=Fira+Code&center=true&width=650&height=45&color=2C5364&vCenter=true&size=24&pause=1200"/>
 </a>
+
+
 
 <br/>
 
