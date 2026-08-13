@@ -99,11 +99,7 @@ location: Sindhudurg, Maharashtra, India
 
 
 <td align="center">
-
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" alt="wand" />
-</p>
-
+  <img src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" alt="hagrid" />
 </td>
 
 </td>
