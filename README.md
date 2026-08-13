@@ -94,9 +94,9 @@ location: Sindhudurg, Maharashtra, India
 
 </td>
 
-<td valign="top" width="38%" align="center">
+<td width="38%" align="center" valign="middle">
   <img 
-    src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" 
+    src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89"
     alt="Hagrid"
     width="300"
   />
