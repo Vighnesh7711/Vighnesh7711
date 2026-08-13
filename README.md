@@ -1,5 +1,3 @@
-
-
 <!-- Animated wave header -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,20:0B1228,40:101B38,60:102D48,80:12445A,100:087E9B&height=250&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=E6F7FF&animation=fadeIn&fontAlignY=34&desc=AI%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=55&descSize=17&stroke=1B9DB8&strokeWidth=1" width="100%"/>
@@ -58,7 +56,9 @@ location: Sindhudurg, Maharashtra, India
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="62%">
 
 **Languages**
 <br/>
@@ -70,8 +70,12 @@ location: Sindhudurg, Maharashtra, India
 
 **AI / ML & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,pandas&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 **Backend & Databases**
 <br/>
@@ -80,14 +84,25 @@ location: Sindhudurg, Maharashtra, India
 
 **Embedded / IoT / Edge AI**
 <br/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/TinyML-3C873A?style=for-the-badge"/>
 
 **Dev Tools & Automation**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> &nbsp;
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
-</div>
+</td>
+<td valign="top" width="38%" align="center">
+
+<img  alt="hagrid-sprite" src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" />
+
+
+
+</td>
+</tr>
+</table>
 
 <br/>
 
