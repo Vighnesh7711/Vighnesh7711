@@ -79,8 +79,7 @@ location: Sindhudurg, Maharashtra, India
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
 
 **Embedded / IoT / Edge AI**
 <br/>
@@ -90,22 +89,21 @@ location: Sindhudurg, Maharashtra, India
 
 **Dev Tools & Automation**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </td>
+
 <td valign="top" width="38%" align="center">
-
-
-
-<td>
-  <img src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" alt="hagrid" />
+  <img 
+    src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89" 
+    alt="Hagrid"
+    width="300"
+  />
 </td>
 
-</td>
 </tr>
 </table>
-
 <br/>
 
 
