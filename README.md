@@ -98,7 +98,7 @@ location: Sindhudurg, Maharashtra, India
 
 
 
-<td valign="middle" width="38%" align="center">
+<td align="center">
 <img src="https://github.com/user-attachments/assets/69def6e9-aa77-4543-a048-255cafc1da89"/>
 </td>
 
