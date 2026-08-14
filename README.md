@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="./assets/vighnesh_pixelated_wavy_background.gif"
+  src="./assets/vighnesh_pixel_header_FIXED.gif"
   width="100%"
   alt="Vighnesh Gawande - AI, Full Stack, Data Science, Edge AI"
 />
