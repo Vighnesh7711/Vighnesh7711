@@ -59,7 +59,8 @@ location: Sindhudurg, Maharashtra, India
 - ⚡ Fun fact: I like turning crazy ideas into working prototypes — especially when they involve AI, hardware, and a little bit of magic.
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+<img width="800" height="450" alt="vighnesh-pixel-video3-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/02a046f6-d5b2-432f-a859-f398009cd66a" />
+
 <br><br>
 
 <div align="center">
