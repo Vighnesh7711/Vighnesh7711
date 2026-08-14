@@ -5,25 +5,29 @@
 <img
   src="./assets/vighnesh_pixel_header_FIXED.gif"
   width="100%"
-  alt="Vighnesh Gawande - AI, Full Stack, Data Science, Edge AI"
+  alt="Vighnesh Gawande - AI | Full Stack | Data Science | Edge AI"
 />
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+Vighnesh.exe...;%3E+Building+AI+for+the+real+world;%3E+From+code+to+systems+to+reality"
-  alt="Typing animation"
-/>
-
-</div>
-
-
 
 <br/>
 
-<a href="https://linkedin.com/in/vighnesh-gawande"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vighneshgawande@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Vighnesh7711"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=35&lines=%3E+Initializing+Vighnesh.exe...;%3E+Building+AI+for+the+real+world;%3E+From+code+to+systems+to+reality"
+  alt="Typing animation"
+/>
+
+<br/>
+
+<a href="https://linkedin.com/in/vighnesh-gawande">
+<img src="https://img.shields.io/badge/LINKEDIN-050509?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="mailto:vighneshgawande@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-050509?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
+
+<a href="https://github.com/Vighnesh7711">
+<img src="https://img.shields.io/badge/GITHUB-050509?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
 
 </div>
 
