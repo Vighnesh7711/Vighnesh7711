@@ -59,7 +59,7 @@ location: Sindhudurg, Maharashtra, India
 - ⚡ Fun fact: I like turning crazy ideas into working prototypes — especially when they involve AI, hardware, and a little bit of magic.
 <br/>
 
-<img width="800" height="450" alt="vighnesh-pixel-video3-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/02a046f6-d5b2-432f-a859-f398009cd66a" />
+<img width="1000" alt="vighnesh-pixel-video3-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/02a046f6-d5b2-432f-a859-f398009cd66a" />
 
 <br><br>
 
