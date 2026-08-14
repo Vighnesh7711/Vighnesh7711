@@ -1,13 +1,21 @@
 <!-- Animated wave header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,20:0B1228,40:101B38,60:102D48,80:12445A,100:087E9B&height=250&section=header&text=Vighnesh%20Gawande&fontSize=42&fontColor=E6F7FF&animation=fadeIn&fontAlignY=34&desc=AI%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems&descAlignY=55&descSize=17&stroke=1B9DB8&strokeWidth=1" width="100%"/>
+<div align="center">
 
+<img
+  src="./assets/vighnesh-header.gif"
+  width="100%"
+  alt="Vighnesh Gawande - AI, Full Stack, Data Science, Edge AI"
+/>
 
-<!-- Typing animation -->
+<br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+Vighnesh+here+%F0%9F%91%8B;Turning+AI+ideas+into+real-world+solutions;From+ideas+to+code+to+reality&font=Fira+Code&center=true&width=650&height=45&color=2C5364&vCenter=true&size=24&pause=1200"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+Vighnesh.exe...;%3E+Building+AI+for+the+real+world;%3E+From+code+to+systems+to+reality"
+  alt="Typing animation"
+/>
+
+</div>
 
 
 
