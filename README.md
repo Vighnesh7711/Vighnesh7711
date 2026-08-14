@@ -61,7 +61,7 @@ location: Sindhudurg, Maharashtra, India
 
 <img width="1000" alt="vighnesh-pixel-video3-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/02a046f6-d5b2-432f-a859-f398009cd66a" />
 
-<br><br>
+<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
